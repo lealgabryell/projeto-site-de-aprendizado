@@ -7,9 +7,7 @@ body {
   font-family: arial, helvetica, sans-serif;
   font-size: 12px;
 }
-.cabeçalho {
-  background-color: rgb(71, 80, 80);
-}
+
 h1 {
   color: #c0c0c0;
   font-family: arial helvetica, sans-serif;
@@ -60,4 +58,18 @@ h1 {
   border: 1px solid #c0c0c0;
   display: block;
   width: 100px;
+}
+
+.faixa1{
+  background-color: lightcyan;
+}
+
+.imagem-centralizada {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.imagem-centralizada img {
+  display: block;
+  margin: 0 auto;
 }
