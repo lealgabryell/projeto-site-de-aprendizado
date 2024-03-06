@@ -93,8 +93,13 @@ nav{
 }
 
 .imagem-centralizada {
+  margin-top: 0.5rem;
   background-color: white;
   text-align: center;
+}
+
+.imagem-centralizada img{
+  box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
 }
 
 .textos-teste h1{
