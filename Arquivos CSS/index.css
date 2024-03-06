@@ -1,35 +1,65 @@
+@import url('https://fonts.cdnfonts.com/css/hammersmith-one');
 * {
   margin: 0;
   padding: 0;
+}
+header{
+  font-family:"Hammersmith one", sans-serif;
+  display: flex;
+  flex-direction: column;
+  
 }
 
 body {
   font-family: arial, helvetica, sans-serif;
   font-size: 12px;
 }
-
-h1 {
-  color: #c0c0c0;
-  font-family: arial helvetica, sans-serif;
-  margin-left: 50px;
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 60px;
+  border-bottom: solid .1rem black;
+  border-top: solid .1rem black;
+}
+.cabecalho{
+  display: flex;
+  flex-direction: row;
 }
 
+/* edita o titulo da header */
+.titulo{
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo a{
+  text-decoration: none;
+}
+
+/* Edita a listagem dentro do hover*/
 .Menu {
+  display: flex;
+  flex-direction: row;
   list-style: none;
-  border: 1px solid #c0c0c0;
-  float: left;
+  float: center;
+  align-items: center;
+  justify-content: center;
 }
 
+/*Aqui editamos a barra de navegacao para ficar horizontal*/
 .Menu li {
   position: relative;
   float: left;
-  border-right: 1px solid #c0c0c0;
 }
+
 .Menu li a {
   color: #333;
   text-decoration: none;
-  padding: 1px 30px;
+  padding: 0px 30px;
   display: block;
+  /* aumentar o tamaho da letra que esta no cabecalho */
+  font-size: 20px;
 }
 
 .Menu li a:hover {
@@ -41,12 +71,13 @@ h1 {
   text-shadow: 0px 0px 5px #fff;
 }
 
+/* Edita o menu suspenso dentro de "Cursos" */
 .Menu li ul {
   position: absolute;
-  top: 16px;
+  top: 25px;
   left: 0px;
   background-color: #fff;
-  display: none;
+  display:none;
 }
 
 .Menu li:hover ul,
@@ -56,20 +87,25 @@ h1 {
 
 .Menu li ul li {
   border: 1px solid #c0c0c0;
+  padding: 0 10px;
   display: block;
   width: 100px;
 }
 
-.faixa1{
-  background-color: lightcyan;
-}
-
 .imagem-centralizada {
+  background-color: white;
   text-align: center;
-  margin: 0 auto;
 }
 
-.imagem-centralizada img {
-  display: block;
-  margin: 0 auto;
+.textos-teste h1{
+  font-size: 50px;
+  text-align: center;
+}
+
+.textos-teste h4{
+  text-align: center;
+}
+
+.textos-teste span{
+  font-size: 1rem;
 }
