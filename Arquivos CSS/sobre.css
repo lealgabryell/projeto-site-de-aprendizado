@@ -1,0 +1,23 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 12px;
+  }
+
+.corpo-completo li {
+    text-align: justify;
+    font-size: 1.7rem; 
+    margin-top: 4rem;
+    padding: 2rem;
+  }
+  
+  .corpo-completo h3 {
+    text-align: justify;
+    font-size: 1.5rem;
+    padding: 2rem;
+  }
+  
+  .corpo-completo span {
+    text-align: justify;
+    font-size: 1.7rem;
+    padding: 2rem;
+  }
