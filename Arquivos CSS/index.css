@@ -70,12 +70,11 @@ nav {
   -moz-box-shadow: 0 1px 10px 0 #ccc;
   -webkit-box-shadow: 0 3px 10px 0 #ccc;
   text-shadow: 0px 0px 5px #fff;
-  
 }
 
 /* Edita o menu suspenso dentro de "Cursos" */
 .Menu li ul {
-  margin-top: 0.1rem ;
+  margin-top: 0.1rem;
   border: 0.2rem solid #a989e9;
   border-radius: 1.2rem;
   position: absolute;
@@ -103,7 +102,8 @@ nav {
 
 .imagem-centralizada img {
   object-fit: cover;
-  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 50rem;
 }
 
@@ -118,16 +118,17 @@ nav {
   text-align: center;
 }
 
-.textos-teste span {
+.textos-intro span {
   font-size: 1rem;
 }
 
 /*edita o bloco inteiro*/
-.logica-de-programação{
+.logica-de-programação-homepage {
   display: flex;
   flex-direction: row;
   object-fit: cover;
-  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
   background-color: #a989e9;
   border-radius: 50rem;
   margin-right: 60rem;
@@ -137,7 +138,7 @@ nav {
 }
 
 /*edita o texto dentro de lógica de programação*/
-.logica-de-programação p{
+.logica-de-programação-homepage p {
   margin-top: 20px;
   margin-right: 75px;
   font-family: "Hammersmith one", sans-serif;
@@ -145,37 +146,104 @@ nav {
 }
 
 /*edita a foto de lógica de programação*/
-.logica-de-programação img{
+.logica-de-programação-homepage img {
   width: 110px;
 }
 
 /*edita o link de aprenda agora*/
-.logica-de-programação a{
+.logica-de-programação-homepage a {
   font-size: 0.9rem;
   font-family: "Hammersmith one", sans-serif;
   color: black;
   text-decoration: none;
   margin-left: 12rem;
-  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 10px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   padding: 0.65%;
   background-color: #a989e9;
   border-radius: 10px;
 }
 
+/*edita o bloco inteiro*/
+.java-homepage {
+  display: flex;
+  flex-direction: row;
+  justify-self: left;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #e98989;
+  border-radius: 50rem;
+  margin-left: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-right: 20px;
+}
+
+/*edita o texto dentro de lógica de programação*/
+.java-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+}
+
+/*edita a foto de lógica de programação*/
+.java-homepage img {
+  width: 110px;
+}
+
+/*edita o link de aprenda agora*/
+.java-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.65%;
+  background-color: #e98989;
+  border-radius: 10px;
+}
+
 /*ajustando responsividade*/
-@media (max-width: 1600px){
-  .logica-de-programação a{
+@media (max-width: 1600px) {
+  .logica-de-programação-homepage a {
     font-size: 0.6rem;
     font-family: "Hammersmith one", sans-serif;
     color: black;
     text-decoration: none;
     margin-left: 3.5rem;
-    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 10px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
     padding: 0.6%;
     background-color: #a989e9;
     border-radius: 10px;
   }
-  .logica-de-programação p{
+  .logica-de-programação-homepage p {
+    margin-top: 20px;
+    margin-right: 75px;
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 0.6rem;
+  }
+  .java-homepage a {
+    font-size: 0.6rem;
+    font-family: "Hammersmith one", sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 3.5rem;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 0.6%;
+    background-color: #e98989;
+    border-radius: 10px;
+  }
+  .java-homepage p {
     margin-top: 20px;
     margin-right: 75px;
     font-family: "Hammersmith one", sans-serif;
