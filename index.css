@@ -1,0 +1,453 @@
+@import url("https://fonts.cdnfonts.com/css/hammersmith-one");
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  position: sticky;
+  font-family: "Hammersmith one", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 12px;
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 60px;
+  border-bottom: solid 0.1rem black;
+  border-top: solid 0.1rem black;
+}
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+}
+
+/* edita o titulo da header */
+.titulo {
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.titulo a {
+  text-decoration: none;
+}
+
+/* Edita a listagem dentro do hover*/
+.Menu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  float: center;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Aqui editamos a barra de navegacao para ficar horizontal*/
+.Menu li {
+  position: relative;
+  float: left;
+}
+
+.Menu li a {
+  color: #333;
+  text-decoration: none;
+  padding: 0rem 1.8rem;
+  display: block;
+  /* aumentar o tamaho da letra que esta no cabecalho */
+  font-size: 20px;
+}
+
+.Menu li a:hover {
+  border-radius: 17rem;
+  background: #ffffff;
+  color: #000000;
+  box-shadow: #333;
+  -moz-box-shadow: 0 1px 10px 0 #ccc;
+  -webkit-box-shadow: 0 3px 10px 0 #ccc;
+  text-shadow: 0px 0px 5px #fff;
+}
+
+/* Edita o menu suspenso dentro de "Cursos" */
+.Menu li ul {
+  margin-top: 0.1rem;
+  border: 0.2rem solid #a989e9;
+  border-radius: 1.2rem;
+  position: absolute;
+  background-color: #fff;
+  display: none;
+}
+
+.Menu li:hover ul,
+.Menu li.over ul {
+  display: block;
+}
+
+.Menu li ul li {
+  padding: 0 10px;
+  display: block;
+  width: 100px;
+}
+
+.imagem-centralizada {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.imagem-centralizada img {
+  width: 28rem;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 50rem;
+}
+/* edita a cor das caixar de link */
+.seções-main a:hover{
+  background-color: #ffffff;
+}
+
+.textos-intro h1 {
+  font-size: 50px;
+  font-family: "Hammersmith one", sans-serif;
+  text-align: center;
+}
+
+.textos-intro h4 {
+  font-family: "Hammersmith one", sans-serif;
+  text-align: center;
+}
+
+.textos-intro span {
+  font-size: 1rem;
+}
+
+
+/* edita a cor do bloco inteiro */
+main{
+  background-color: #fff;
+}
+
+/*edita o bloco inteiro*/
+.logica-de-programação-homepage {
+  display: flex;
+  flex-direction: row;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #a989e9;
+  border-radius: 50rem;
+  margin-right: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+}
+
+/*edita o texto dentro de lógica de programação*/
+.logica-de-programação-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+}
+
+/*edita a foto de lógica de programação*/
+.logica-de-programação-homepage img {
+  width: 110px;
+}
+
+/*edita o link de aprenda agora*/
+.logica-de-programação-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.65%;
+  background-color: #a989e9;
+  border-radius: 10px;
+}
+
+/*edita o bloco inteiro*/
+.java-homepage {
+  display: flex;
+  flex-direction: row;
+  justify-self: left;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #19f58b;
+  border-radius: 50rem;
+  margin-left: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-right: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+}
+
+/*edita o texto dentro de lógica de programação*/
+.java-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+}
+
+/*edita a foto de lógica de programação*/
+.java-homepage img {
+  width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+/*edita o link de aprenda agora*/
+.java-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.2%;
+  background-color: #19f58b;
+  border-radius: 10px;
+  
+}
+
+/*edita o bloco inteiro*/
+.html-homepage {
+  display: flex;
+  flex-direction: row;
+  justify-self: left;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #19e1f5;
+  border-radius: 50rem;
+  margin-right: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+}
+
+/*edita o texto dentro de lógica de programação*/
+.html-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+}
+
+/*edita a foto de lógica de programação*/
+.html-homepage img {
+  width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+/*edita o link de aprenda agora*/
+.html-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.65%;
+  background-color: #19e1f5;
+  border-radius: 10px;
+}
+/*edita o bloco inteiro*/
+.css-homepage {
+  display: flex;
+  flex-direction: row;
+  justify-self: left;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #ff914d;
+  border-radius: 50rem;
+  margin-left: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-right: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+  
+}
+
+/*edita o texto dentro de lógica de programação*/
+.css-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+
+}
+
+/*edita a foto de lógica de programação*/
+.css-homepage img {
+  width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+  
+}
+
+/*edita o link de aprenda agora*/
+.css-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.65%;
+  background-color: #ff914d;
+  border-radius: 10px;
+}
+/*edita o bloco inteiro*/
+.python-homepage {
+  display: flex;
+  flex-direction: row;
+  justify-self: left;
+  object-fit: cover;
+  box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
+    rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  background-color: #02944e;
+  border-radius: 50rem;
+  margin-right: 60rem;
+  margin-top: 3rem;
+  padding-left: 3.3rem;
+  margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+}
+
+/*edita o texto dentro de lógica de programação*/
+.python-homepage p {
+  margin-top: 20px;
+  margin-right: 75px;
+  font-family: "Hammersmith one", sans-serif;
+  font-size: larger;
+}
+
+/*edita a foto de lógica de programação*/
+.python-homepage img {
+  width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+/*edita o link de aprenda agora*/
+.python-homepage a {
+  font-size: 0.9rem;
+  font-family: "Hammersmith one", sans-serif;
+  color: black;
+  text-decoration: none;
+  margin-left: 12rem;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+    rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+    rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 0.65%;
+  background-color: #02944e;
+  border-radius: 10px;
+}
+
+/*ajustando responsividade*/
+@media (max-width: 1600px) {
+  .logica-de-programação-homepage a {
+    font-size: 0.6rem;
+    font-family: "Hammersmith one", sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 3.5rem;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 0.6%;
+    background-color: #a989e9;
+    border-radius: 10px;
+  }
+  .logica-de-programação-homepage p {
+    margin-top: 20px;
+    margin-right: 75px;
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 0.6rem;
+  }
+  .java-homepage a {
+    font-size: 0.6rem;
+    font-family: "Hammersmith one", sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 3.5rem;
+    box-shadow: rgba(0, 119, 255, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 0.6%;
+    background-color: #19f58b;
+    border-radius: 10px;
+  }
+  .java-homepage p {
+    margin-top: 20px;
+    margin-right: 75px;
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 0.6rem;
+  }
+  .html-homepage a {
+    font-size: 0.6rem;
+    font-family: "Hammersmith one", sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 3.5rem;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 0.6%;
+    background-color: #19e1f5;
+    border-radius: 10px;
+  }
+  .html-homepage p {
+    margin-top: 20px;
+    margin-right: 75px;
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 0.6rem;
+  }
+  .css-homepage a {
+    font-size: 0.6rem;
+    font-family: "Hammersmith one", sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 3.5rem;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+      rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
+      rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    padding: 0.6%;
+    background-color: #ff914d;
+    border-radius: 10px;
+  }
+  .css-homepage p {
+    margin-top: 20px;
+    margin-right: 75px;
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 0.6rem;
+  }
+}
