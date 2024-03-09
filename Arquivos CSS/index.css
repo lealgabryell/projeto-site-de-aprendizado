@@ -107,6 +107,10 @@ nav {
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
   border-radius: 50rem;
 }
+/* edita a cor das caixar de link */
+.seções-main a:hover{
+  background-color: #ffffff;
+}
 
 .textos-intro h1 {
   font-size: 50px;
@@ -123,10 +127,10 @@ nav {
   font-size: 1rem;
 }
 
-/*edita o bloco main inteiro*/
 
+/* edita a cor do bloco inteiro */
 main{
-  background-color: #eeeded;
+  background-color: #fff;
 }
 
 /*edita o bloco inteiro*/
@@ -142,6 +146,8 @@ main{
   margin-top: 3rem;
   padding-left: 3.3rem;
   margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -186,6 +192,8 @@ main{
   margin-top: 3rem;
   padding-left: 3.3rem;
   margin-right: 20px;
+  border: solid black;
+  border-width: 0.1rem;
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -199,6 +207,8 @@ main{
 /*edita a foto de lógica de programação*/
 .java-homepage img {
   width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
 /*edita o link de aprenda agora*/
@@ -212,9 +222,9 @@ main{
     rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   padding: 0.2%;
-
   background-color: #19f58b;
   border-radius: 10px;
+  
 }
 
 /*edita o bloco inteiro*/
@@ -231,6 +241,8 @@ main{
   margin-top: 3rem;
   padding-left: 3.3rem;
   margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -244,6 +256,8 @@ main{
 /*edita a foto de lógica de programação*/
 .html-homepage img {
   width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
 /*edita o link de aprenda agora*/
@@ -274,6 +288,9 @@ main{
   margin-top: 3rem;
   padding-left: 3.3rem;
   margin-right: 20px;
+  border: solid black;
+  border-width: 0.1rem;
+  
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -282,11 +299,15 @@ main{
   margin-right: 75px;
   font-family: "Hammersmith one", sans-serif;
   font-size: larger;
+
 }
 
 /*edita a foto de lógica de programação*/
 .css-homepage img {
   width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+  
 }
 
 /*edita o link de aprenda agora*/
@@ -317,6 +338,8 @@ main{
   margin-top: 3rem;
   padding-left: 3.3rem;
   margin-left: 20px;
+  border: solid black;
+  border-width: 0.1rem;
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -330,6 +353,8 @@ main{
 /*edita a foto de lógica de programação*/
 .python-homepage img {
   width: 110px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
 }
 
 /*edita o link de aprenda agora*/
