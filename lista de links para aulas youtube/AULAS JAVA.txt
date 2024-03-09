@@ -1,0 +1,127 @@
+LINK DO CANAL- https://www.youtube.com/@CursoemVideo
+
+
+Curso de Java #01 - História do Java - Gustavo Guanabara
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sTX0UEplF54?si=5Ex7Z_Tihv6kdKAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #01 - Curso de Java para Iniciantes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBKxhnqX-Q0?si=YKo33Wtb0n-njq_j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #02 - Como Funciona o Java - Gustavo Guanabara
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v_ZCtgwbS3o?si=kaz8Dc5rfIuHaHjT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #02 - Curso de Java para Iniciantes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIXDystGxj0?si=6O4tY0h_eGJm33QT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #03 - Instalando o JDK no seu Computador - Gustavo Guanabara
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yWU5bm_pZzY?si=qQYKVYNepjKfnUj1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #03 - Curso de Java para Iniciantes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsp1H0-FVGI?si=_W90XnO1D7-FhojH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #04 - Primeiro Programa em Java - Gustavo Guanabara
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ijXXaIYsVx4?si=FqpuZEOV1ho4yeh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #04 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H7Qpt8NRpDw?si=X4qIV1w_SOeB4i8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #05 - Introdução ao Swing e JavaFX
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cYMruFKwqf0?si=JzMvjNL_zK7RQGrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #05 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UaTZTP50i08?si=ktgTXuXvGPj8sAE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #06 - Tipos Primitivos e Manipulação de Dados
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JEAQeT7YGs4?si=h-1ng_4tzyOsMQ3Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #06 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7XPR-v1Fzjw?si=VCaX426W0pO2COgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #07 - Operadores Aritméticos e Classe Math
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9V5wtOOZHs?si=UbLu6yweVNrR7qA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #07 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEuQBmHXRnY?si=g2byo8VW2nIBZ_zj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #08 - Operadores Lógicos e Relacionais
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHgnlic7fj8?si=k2AiCs2Inzu_CKZP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #08 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LNECh9RplE0?si=bJKxbP15TqSpH8zK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #09 - Estruturas Condicionais (Parte 1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wW3eve4vTMc?si=0J5Ntmb5dzxP4QhJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #09 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGgd1f66kWE?si=m0U2qIsJmrk5DKF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #10 - Estruturas Condicionais (Parte 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNSrBld06qs?si=fPjpYJZe6_1-mFdZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #10 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-2E7c2Kfcc?si=Ct7OYtAWxY8mEvu3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #11 - Estruturas de Repetição (Parte 1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2fawKjR8d4c?si=ZYeUUS3zuyCE8CRD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #11 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdAArHfOS9k?si=hcI1rEfLFiAYvbRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #12 - Estruturas de Repetição (Parte 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ojLALwmvQIU?si=VJFft9zGs1PJJ_vi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercício de Java #12
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUSnoHiTZ8E?si=JOuG1BhrcdilJ39l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #13 - Estruturas de Repetição (Parte 3)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLqPZh6n8IA?si=ZgMytkVsduv2bb-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #13 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYvGz1h_2MU?si=Qhakt1pq4RjCfWX-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #14 - Vetores - Gustavo Guanabara
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KAS94-Lcboc?si=_8iH5y3AspTwXpwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #14 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6YxJOIxJyKo?si=tEZOLBfU8ixaRqAK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de Java #15 - Métodos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EuxmbXZCFVQ?si=fK1ECMQXlVy9GO0K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Exercícios de Java #15 - Curso de Java
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fh5s0RUjhmQ?si=fUHTm9Ecivl3VaSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
