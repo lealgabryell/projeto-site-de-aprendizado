@@ -1,0 +1,64 @@
+AULAS DE HTML
+
+Canal- https://www.youtube.com/@programacaoweb
+
+Curso de HTML Completo: Aula 01 - Criando novo projeto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sj0p9O85AIg?si=NrQS7-nkelduqQh5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+Curso de HTML Completo: Aula 02 - Estrutura Básica
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MOd8PCyEB88?si=b48HzNlQoPoG5WTR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 03 - Meta Tags, Cabeçalho e Parágrafo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ntb19o-2MI?si=BSSkNiRaQBeSbrTm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 04 - Formatação de Texto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RiGo7BN1Wps?si=xxj8EyooWQHDtdBf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 05 - Elementos de Citação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzWtE7GFi0Y?si=GMPs_b8tr-Eigfsm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 06 - Comentários
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sl0edqPVrGg?si=oqNDTXah_9Zr43Vz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 07 - Links
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eb5tPfOeexI?si=V9hbvoF4xDO3U3IC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 08 - Tudo Sobre Imagens
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FvW812Up1U?si=-pN9genPbZYydcxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso HTML Completo: Aula 09 - Tabelas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTUdJlcjEo4?si=ybSkjpxtO02EgX90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso HTML Completo: Aula 10 - Listas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pShBr4Qmt0?si=R809yybkN2IsRn4z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 11 - iframes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/448sdzWsnMs?si=Tx4G7zHR4FjIf_dz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 12 - Formulários
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7eZJFftCbVQ?si=9gmh3BBgqC7tS8tN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 13 - Áudio
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ImZoGl-pjVw?si=JqiaLuaVhhNDM_ef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso de HTML Completo: Aula 14 - Vídeos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwDPP6mfdWU?si=yF14ctLvmu7nZy85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso HTML Completo: Aula 15 - Div e HTML Semântico
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2ZiOfoQ4wI?si=nmLO4lp1H8GJMxYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

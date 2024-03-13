@@ -169,7 +169,10 @@ h1 {
     top: -150px;
   }
 }
-/* edita a cor do bloco inteiro */
+/*finaliza o bloco de edição do heading animado*/
+
+
+/* edita a cor do bloco inteiro do main*/
 main{
   background-image: url("/Fotos/planodefundo.png");
   background-repeat: no-repeat;
