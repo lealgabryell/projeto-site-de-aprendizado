@@ -1,0 +1,117 @@
+Canal- Programação Web
+
+Curso CSS Completo: Aula 01 - O que é CSS e CSS Inline
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtVRRHoASes?si=BXh140VEFc1ClO1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 02 - CSS Interno (incorporado na página)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tspCQqKLTbY?si=0984PbkkEOukIdsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 03 - CSS Externo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4LdM3aXxeU?si=MhZnnWqhGpo_nEJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 04 - Seletores e Classes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZMfNFAPlcpo?si=HJs-_FTWgB9SQQzv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 05 - Propriedade Color
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vjvtaVknRc?si=tvLtnYdAsM9B6dVW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 06 - Propriedade Background
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTcE4KGZsMM?si=tG9sg6R0XDGN4pwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 07 - Propriedade Border
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zfrIsnax1nA?si=xmgFig91b7vBT712" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 08 - Propriedade Margin
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X43kYX2vqaI?si=0kL16_xY7tCnLTXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 09 - Propriedade Padding e Criando Um Botão Simples
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmO5xce__ww?si=ww4cpsbeFvFZw96l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 10 - Propriedade Width e Height
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oSm3aOswjxs?si=8fxuzSyX8ndBRen2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 11 - Propriedade Text
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TrknyZa9-x4?si=tK1m-xA-DrCdZDvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 12 - Propriedade Font
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ez40S3jaNSU?si=FoXZ2Z_Fk7sAzrWp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 13 - Estilização de Links
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eJuofyUS7Jw?si=wHiw_NLBo33g8qgi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 14 - Propriedade Display
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T6RPyXcuLj4?si=n62gvUw10GbjOVcb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 15 - Propriedade Max-Width
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mHbKDghkv8?si=8dVaEvc4u_vgIFUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 16 - Propriedade Position
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQmqFdNKijc?si=TlTK4Qt0FuRzaX3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 17 - Propriedade Overflow
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wnz7zeIG3Qo?si=cIDTX7IDWJWIqGw5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 18 - Propriedade Float
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRh3K23aHv8?si=i7IVS26De-wXhYvZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 19 - Propriedade Opacity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MxUg_gHhmA?si=DWK_W24i8REFl37h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 20 - Efeito Dropdown
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Rrr2MwbOXc?si=znzpYaQ56wdo4Vze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 21 - Especificidade CSS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AHsuA7OV_5U?si=mQbf6QlSVL-wR5Ey" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 22 - Regra Important
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJZx3JstBG4?si=mQpjkmTM9yr7Ru20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 23 - Efeito Gradiente
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JFdIBcvju7U?si=REMYGCfDxJDduflx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 24 - Propriedades Text Shadow e Box Shadow
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5vtATyHV2Y?si=w44pYLlCVn_43yQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 25 - Efeitos de Texto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F-oBI66MgIk?si=3tPFl-RdzQq8QROG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 26 - Media Queries
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SnZzWV120X4?si=n97apkWv5Su6aRCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 27 - Flexbox
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQTU9hEStD8?si=Sgec_E8rOLgha_Vh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Curso CSS Completo: Aula 28 - Criando Site do Zero Com CSS e HTML
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gRtjwD2w88?si=RKY1Yho7wSyIxmVN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+

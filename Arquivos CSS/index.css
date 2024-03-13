@@ -119,6 +119,7 @@ h1 {
 }
 
 .subtitulo {
+  font-family: "Hammersmith one", sans-serif;
   font-size: 1rem;
   margin: auto;
   margin-right: auto;
@@ -132,6 +133,7 @@ h1 {
   height: 50px;
   line-height: 50px;
   font-size: 2rem;
+  font-family: "Hammersmith one", sans-serif;
   text-transform: uppercase;
   overflow: hidden;
 }
