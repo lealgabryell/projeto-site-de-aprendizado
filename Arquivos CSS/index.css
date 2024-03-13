@@ -9,10 +9,9 @@ header {
   display: flex;
   flex-direction: column;
 }
-
 body {
   font-family: arial, helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 12px; 
 }
 nav {
   display: flex;
@@ -26,17 +25,14 @@ nav {
   display: flex;
   flex-direction: row;
 }
-
 /* edita o titulo da header */
 .titulo {
   font-style: italic;
   font-family: "Times New Roman", Times, serif;
 }
-
 .titulo a {
   text-decoration: none;
 }
-
 /* Edita a listagem dentro do hover*/
 .Menu {
   display: flex;
@@ -44,24 +40,21 @@ nav {
   list-style: none;
   float: center;
   align-items: center;
-  justify-content: center;
+  justify-content: center; 
 }
-
 /*Aqui editamos a barra de navegacao para ficar horizontal*/
 .Menu li {
   position: relative;
   float: left;
 }
-
 .Menu li a {
   color: #333;
   text-decoration: none;
   padding: 0rem 1.8rem;
   display: block;
   /* aumentar o tamaho da letra que esta no cabecalho */
-  font-size: 20px;
+  font-size: 20px; 
 }
-
 .Menu li a:hover {
   border-radius: 17rem;
   background: #ffffff;
@@ -71,7 +64,6 @@ nav {
   -webkit-box-shadow: 0 3px 10px 0 #ccc;
   text-shadow: 0px 0px 5px #fff;
 }
-
 /* Edita o menu suspenso dentro de "Cursos" */
 .Menu li ul {
   margin-top: 0.1rem;
@@ -81,56 +73,107 @@ nav {
   background-color: #fff;
   display: none;
 }
-
 .Menu li:hover ul,
 .Menu li.over ul {
   display: block;
 }
-
 .Menu li ul li {
   padding: 0 10px;
   display: block;
   width: 100px;
 }
-
 .imagem-centralizada {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   background-color: white;
-  text-align: center;
+  text-align: center; 
 }
-
 .imagem-centralizada img {
   width: 28rem;
   object-fit: cover;
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  border-radius: 50rem;
+  border-radius: 50rem; 
 }
 /* edita a cor das caixar de link */
 .seções-main a:hover{
   background-color: #ffffff;
 }
-
-.textos-intro h1 {
-  font-size: 50px;
-  font-family: "Hammersmith one", sans-serif;
-  text-align: center;
+* {
+  margin-left: 0;
+  padding: 0;
+}
+/* animação de texto infinito*/
+.outer-headings {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.textos-intro h4 {
-  font-family: "Hammersmith one", sans-serif;
+h1 {
+  font-size: 3rem;
   text-align: center;
+  
 }
 
-.textos-intro span {
+.subtitulo {
   font-size: 1rem;
+  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
+  width: 48rem;
+  padding-bottom: 2rem;
 }
 
+.inner-headings {
+  border: 0px solid #ddd;
+  height: 50px;
+  line-height: 50px;
+  font-size: 2rem;
+  text-transform: uppercase;
+  overflow: hidden;
+}
 
+.inner-headings span {
+  position: relative;
+  color: lightskyblue;
+  animation: animation 10s ease infinite;
+}
+
+@keyframes animation {
+  0%,
+  100% {
+    top: 0;
+  }
+  20% {
+    top: 0;
+  }
+  25% {
+    top: -50px;
+  }
+  45% {
+    top: -50px;
+  }
+  50% {
+    top: -100px;
+  }
+  70% {
+    top: -100px;
+  }
+  75% {
+    top: -150px;
+  }
+  95% {
+    top: -150px;
+  }
+}
 /* edita a cor do bloco inteiro */
 main{
-  background-color: #fff;
+  background-image: url("/Fotos/planodefundo.png");
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 /*edita o bloco inteiro*/

@@ -2,33 +2,46 @@
 .sections{
   display: flex;
   flex-direction: row;
-}
+
+}  
 .texto-biografia h1{
    font-size: 2.6rem;
-  padding: 3rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
 }
 .texto-biografia p{
   display: flex;
   font-size: 1rem;
-  padding-left: 3rem;
-  margin-right: 5rem;
+  margin: auto;
+  margin-right: auto;
+  width: 50em;
+  padding: 1.5rem;
+  background-color: whitesmoke;
+  border: solid rgb(124, 123, 123);
+  border-radius: 1rem;
+  text-align: justify;
+  
 }
 .contatos{
-  display: flex;
+  position: block;
   flex-direction: row;
 }
 .contatos img{
-  width:3rem;
+  width:2.5rem;
   margin-left: 2rem;
   margin-top: 5rem;
 }
 .contatos a{
   margin-top: 6rem;
 }
+.contatos  {
+  text-align: left;   
+}
 .fotos-perfil{
   display: flex;
   margin-left: 3rem;
   margin-top: 3rem;
+  margin-right: 3rem;
 }
 .fotos-perfil img{
   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
