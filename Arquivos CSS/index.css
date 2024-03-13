@@ -12,6 +12,9 @@ header {
 body {
   font-family: arial, helvetica, sans-serif;
   font-size: 12px; 
+  background-image: url("/Fotos/planodefundo.png");
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 nav {
   display: flex;
@@ -173,13 +176,6 @@ h1 {
 }
 /*finaliza o bloco de edição do heading animado*/
 
-
-/* edita a cor do bloco inteiro do main*/
-main{
-  background-image: url("/Fotos/planodefundo.png");
-  background-repeat: no-repeat;
-  background-size: cover; 
-}
 
 /*edita o bloco inteiro*/
 .logica-de-programação-homepage {
@@ -418,6 +414,16 @@ main{
   padding: 0.65%;
   background-color: #02944e;
   border-radius: 10px;
+}
+
+/* Editando rodapé */
+.tabela-rodape{
+ margin-top: 20px;
+}
+
+.tabela-rodape td img{
+  display: flex;
+  position: center;
 }
 
 /*ajustando responsividade*/
