@@ -188,8 +188,8 @@ main{
   object-fit: cover;
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  background-color: #a989e9;
-  border-radius: 5rem;
+  background-color: #f7f799;
+  border-radius: 3rem;
   margin-right: 60rem;
   margin-top: 2rem;
   padding-left: 3.3rem;
@@ -222,7 +222,7 @@ main{
     rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   padding: 0.6%;
-  background-color: #a989e9;
+  background-color: #f7f799;
   border-radius: 10px;
 }
 
@@ -235,7 +235,7 @@ main{
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
   background-color: #19f58b;
-  border-radius: 5rem;
+  border-radius: 3rem;
   margin-left: 60rem;
   margin-top: 3rem;
   padding-left: 3.3rem;
@@ -284,7 +284,7 @@ main{
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
   background-color: #19e1f5;
-  border-radius: 5rem;
+  border-radius: 3rem;
   margin-right: 60rem;
   margin-top: 3rem;
   padding-left: 3.3rem;
@@ -331,7 +331,7 @@ main{
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
   background-color: #ff914d;
-  border-radius: 5rem;
+  border-radius: 3rem;
   margin-left: 60rem;
   margin-top: 3rem;
   padding-left: 3.3rem;
@@ -381,7 +381,7 @@ main{
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
   background-color: #02944e;
-  border-radius: 5rem;
+  border-radius: 3rem;
   margin-right: 60rem;
   margin-top: 3rem;
   padding-left: 3.3rem;
