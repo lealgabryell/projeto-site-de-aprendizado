@@ -1,0 +1,13 @@
+.texto-descrição-qr-code{
+  text-align: center;
+  font-size: larger;
+  font-family: "Hammersmith one", sans-serif;
+}
+
+.qr-code-pix{
+  display: flex;
+  flex-direction: row;
+}
+.qr-code-pix img{
+margin-left: 45.5rem;
+}
