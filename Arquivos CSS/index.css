@@ -11,10 +11,10 @@ header {
 }
 body {
   font-family: arial, helvetica, sans-serif;
-  font-size: 12px; 
+  font-size: 12px;
   background-image: url("/Fotos/planodefundo.png");
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;
 }
 nav {
   display: flex;
@@ -43,7 +43,7 @@ nav {
   list-style: none;
   float: center;
   align-items: center;
-  justify-content: center; 
+  justify-content: center;
 }
 /*Aqui editamos a barra de navegacao para ficar horizontal*/
 .Menu li {
@@ -56,7 +56,7 @@ nav {
   padding: 0rem 1.8rem;
   display: block;
   /* aumentar o tamaho da letra que esta no cabecalho */
-  font-size: 20px; 
+  font-size: 20px;
 }
 .Menu li a:hover {
   border-radius: 17rem;
@@ -89,17 +89,17 @@ nav {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
   background-color: white;
-  text-align: center; 
+  text-align: center;
 }
 .imagem-centralizada img {
   width: 28rem;
   object-fit: cover;
   box-shadow: rgba(116, 122, 204, 0.16) 0px 3px 6px,
     rgba(0, 0, 0, 0.23) 0px 3px 6px;
-  border-radius: 50rem; 
+  border-radius: 50rem;
 }
 /* edita a cor das caixar de link */
-.seções-main a:hover{
+.seções-main a:hover {
   background-color: #ffffff;
 }
 * {
@@ -118,7 +118,6 @@ nav {
 h1 {
   font-size: 3rem;
   text-align: center;
-  
 }
 
 .subtitulo {
@@ -176,7 +175,6 @@ h1 {
 }
 /*finaliza o bloco de edição do heading animado*/
 
-
 /*edita o bloco inteiro*/
 .logica-de-programação-homepage {
   display: flex;
@@ -214,7 +212,7 @@ h1 {
   color: black;
   text-decoration: none;
   margin-left: 12rem;
-    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px,
     rgba(6, 24, 44, 0.65) 0px 4px 10px -1px,
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
   padding: 0.6%;
@@ -268,7 +266,6 @@ h1 {
   padding: 0.2%;
   background-color: #19f58b;
   border-radius: 10px;
-  
 }
 
 /*edita o bloco inteiro*/
@@ -334,7 +331,6 @@ h1 {
   margin-right: 20px;
   border: solid black;
   border-width: 0.1rem;
-  
 }
 
 /*edita o texto dentro de lógica de programação*/
@@ -343,7 +339,6 @@ h1 {
   margin-right: 75px;
   font-family: "Hammersmith one", sans-serif;
   font-size: larger;
-
 }
 
 /*edita a foto de lógica de programação*/
@@ -351,7 +346,6 @@ h1 {
   width: 110px;
   margin-top: 0.3rem;
   margin-bottom: 0.3rem;
-  
 }
 
 /*edita o link de aprenda agora*/
@@ -417,13 +411,15 @@ h1 {
 }
 
 /* Editando rodapé */
-.tabela-rodape{
- margin-top: 20px;
+.tabela-rodape {
+  font-family: "Hammersmith one", sans-serif;
+  margin-top: 5rem;
+  padding-left: 2rem;
+  text-align: center;
 }
 
-.tabela-rodape td img{
-  display: flex;
-  position: center;
+.tabela-rodape td {
+  text-align: center;
 }
 
 /*ajustando responsividade*/
@@ -505,3 +501,4 @@ h1 {
     font-size: 0.6rem;
   }
 }
+

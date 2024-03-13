@@ -1,4 +1,6 @@
-
+body{
+  font-family: "Hammersmith one", sans-serif;
+}
 .sections{
   display: flex;
   flex-direction: row;
