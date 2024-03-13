@@ -1,0 +1,28 @@
+body{ 
+    font-family: "Hammersmith one", sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .video-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .logica-playlist-aulas li a:hover{
+    border-radius: 17rem;
+    background: #ffffff;
+    color: #000000;
+    box-shadow: #333;
+    -moz-box-shadow: 0 1px 10px 0 #ccc;
+    -webkit-box-shadow: 0 3px 10px 0 #ccc;
+    text-shadow: 0px 0px 5px #fff;
+    padding: 0.3rem;
+  }
+  
+  .logica-playlist-aulas {
+    background-color: #ff914d;
+  }
