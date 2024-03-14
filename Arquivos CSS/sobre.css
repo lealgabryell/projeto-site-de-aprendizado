@@ -97,3 +97,7 @@ input[type=submit]{
     text-align: center;
     border-radius: 15px;
 }
+
+.audio-container{
+    padding-left: 13.5rem;
+}
