@@ -90,6 +90,7 @@ nav {
   margin-bottom: 0.5rem;
   background-color: white;
   text-align: center;
+
 }
 .imagem-centralizada img {
   width: 28rem;
@@ -203,6 +204,15 @@ h1 {
 /*edita a foto de lógica de programação*/
 .logica-de-programação-homepage img {
   width: 130px;
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+  border: transparent #f7f799 ;
+  border-radius: 2rem;
+}
+.logica-de-programação-homepage:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(0.9);
+
 }
 
 /*edita o link de aprenda agora*/
@@ -251,6 +261,15 @@ h1 {
   width: 110px;
   margin-top: 0.3rem;
   margin-bottom: 0.3rem;
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+  border: transparent #f7f799 ;
+  border-radius: 2rem;
+}
+.java-homepage:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(0.9);
+
 }
 
 /*edita o link de aprenda agora*/
@@ -299,6 +318,16 @@ h1 {
   width: 110px;
   margin-top: 0.3rem;
   margin-bottom: 0.3rem;
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+  border: transparent #f7f799 ;
+  border-radius: 2rem;
+
+}
+.html-homepage:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(0.9);
+
 }
 
 /*edita o link de aprenda agora*/
@@ -346,8 +375,15 @@ h1 {
   width: 110px;
   margin-top: 0.3rem;
   margin-bottom: 0.3rem;
+  -webkit-transition: -webkit-transform .5s ease;
+  transition: transform .5s ease;
+  border: transparent #f7f799 ;
+  border-radius: 2rem;
 }
-
+.css-homepage:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(0.9);
+}
 /*edita o link de aprenda agora*/
 .css-homepage a {
   font-size: 0.9rem;
@@ -416,8 +452,22 @@ h1 {
   margin-top: 2rem;
   padding: 2rem;
   text-align: center;
+  text-decoration: none;
+  border-top: solid black;
+  border-radius: 1.5rem;
+  border-width: 0.2rem;
+}
+footer { 
+ padding-left: 6rem;
+  width: 88%;
+
 }
 
+.tabela-rodape a{
+  text-decoration: none;
+
+
+}
 .tabela-rodape td {
   text-align: center;
 }

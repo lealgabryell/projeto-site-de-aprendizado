@@ -39,18 +39,51 @@
     <ul>
       <li>APRENDA A PROGRAMAR E ALAVANQUE SUA CARREIRA COM O PROJETO E&A</li>
       <h3>
-        Se você sempre quis aprender a programar, mas não sabe por onde começar, o [Nome do Site]
+        Se você sempre quis aprender a programar, mas não sabe por onde começar, o PROJETO E&A
         é o lugar perfeito para você! Oferecemos uma ampla variedade de cursos de programação gratuitos
         e pagos, desde o nível básico ao intermediário, para que você possa aprender no seu próprio ritmo
         e de acordo com seus objetivos.</h3>
     </ul>
     <ul>
-      <span>A AREA DE PROGRAMAÇÃO ESTÁ EM ALTA! </span>
+      <li>A AREA DE PROGRAMAÇÃO ESTÁ EM ALTA! </li>
       <h3>
         A demanda por profissionais de programação está crescendo a cada dia. Com as habilidades que você aprenderá
-        em nossos cursos, você estará pronto para iniciar uma carreira promissora na área de tecnologia..</h3>
+        em cursos de alta qualidade filtrados gratuitamente por nossa equipe de especialistas, você estará pronto para iniciar uma carreira promissora na área de tecnologia..</h3>
     </ul>
   </div>
+
+    <form class="formulario" method="post"> 
+      <p> Envie uma mensagem preenchendo o formulário abaixo</p>
+      
+      <div class="field">
+          <label for="nome">Seu Nome:</label>
+          <input type="text" id="nome" name="nome" placeholder="Digite seu nome*" required>
+      </div>
+      
+      <div class="field">
+          <label for="telefone">Seu Telefone:</label>
+          <input type="text" id="telefone" name="telefone" placeholder="Digite seu Telefone">
+      </div>
+
+      <div class="field">
+          <label for="email">Seu E-Mail:</label>
+          <input type="email" id="email" name="email" placeholder="Digite seu E-Mail*" required>
+      </div>        
+      <div class="field">
+        Defina seu nível de satisfação:<br>
+    pouco satisfeito
+    <input type="range" name="satisfacao" min="0" max="10">
+    muito satisfeito
+
+      </div>
+
+      <div class="field">
+          <label for="mensagem">Sua mensagem:</label>
+          <textarea name="mensagem" id="mensagem" placeholder="Mensagem*" required></textarea>
+      </div>
+
+      <input type="submit" name="acao" value="Enviar">
+  </form>
 
 </body>
 

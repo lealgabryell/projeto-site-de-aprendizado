@@ -10,6 +10,7 @@ body{
   text-align: center;
   padding: 2rem;
 }
+
 .logica-playlist-aulas li a:hover{
   border-radius: 17rem;
   background: #ffffff;
@@ -19,12 +20,11 @@ body{
   -webkit-box-shadow: 0 3px 10px 0 #ccc;
   text-shadow: 0px 0px 5px #fff;
   padding: 0.3rem;
-  
-  
+ 
 }
 
 .logica-playlist-aulas {
-  background-color: #a989e9;
+  background-color: #f7f799;
  
 }
 

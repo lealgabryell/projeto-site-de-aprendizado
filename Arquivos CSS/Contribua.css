@@ -1,7 +1,6 @@
-.texto-descrição-qr-code{
+.inner-headings {
   text-align: center;
-  font-size: larger;
-  font-family: "Hammersmith one", sans-serif;
+  margin-top: 2rem;
 }
 
 .qr-code-pix{
@@ -9,5 +8,19 @@
   flex-direction: row;
 }
 .qr-code-pix img{
-margin-left: 45.5rem;
+  margin-top: 2rem;
+  margin-left: 45.5rem;
+  border:solid #6C41C2 ;
+  border-radius: 3rem;
+}
+
+h6 {
+  font-family: "Hammersmith one", sans-serif;
+  font-size: 1rem;
+  margin: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2rem;
+  width: 48rem;
+  text-align: center;
 }

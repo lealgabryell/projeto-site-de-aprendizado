@@ -1,23 +1,99 @@
-body {
-    font-family: arial, helvetica, sans-serif;
-    font-size: 12px;
-  }
+.corpo-completo {
+  font-family: "Hammersmith one", sans-serif;
+}
 
 .corpo-completo li {
-    text-align: justify;
+    text-align: center;
     font-size: 1.7rem; 
     margin-top: 4rem;
-    padding: 2rem;
+    padding-left: 3rem;
+    color: black ;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 1rem;
+    width: 80rem;
+    list-style: none;
   }
-  
+
   .corpo-completo h3 {
     text-align: justify;
-    font-size: 1.5rem;
-    padding: 2rem;
-  }
+    font-size: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border: solid black ;
+    border-width: 0.1rem;
+    border-radius: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90rem;
   
-  .corpo-completo span {
-    text-align: justify;
-    font-size: 1.7rem;
-    padding: 2rem;
   }
+
+  .formulario{
+    width: 400px;
+    margin-left: 45rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: white;
+    border: transparent;
+    border-radius: 1rem;
+    padding: 3rem;
+    font-family: "Hammersmith one", sans-serif;
+    border: solid black;
+    border-radius: 2rem;
+    border-width: 0.8rem;
+    
+    
+}
+.formulario p{
+    width: 100%;
+    font-size: 1.5em;
+}
+.field{
+    width: 100%;
+    margin: 15px 0;
+   
+}
+.field label, 
+.field span{
+    padding-left: 10px;
+    font-size: 1.1em;
+    display: block;
+    width: 100%;
+}
+.radiobox label{
+    width: auto;
+    display: inline-block;
+}
+input[type=text],
+input[type=email],
+textarea{
+    width: 100%;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    border: 1px solid #ccc;
+    outline: none;
+}
+input#nao{
+    margin-left: 30px;
+}
+textarea{
+    line-height: 20px;
+    padding: 10px;
+    height: 90px;
+    resize: none;
+}
+input[type=submit]{
+    display: block;
+    background-color: #ccc;
+    height: 35px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 15px;
+}
