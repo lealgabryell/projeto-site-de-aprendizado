@@ -8,11 +8,13 @@ header {
   font-family: "Hammersmith one", sans-serif;
   display: flex;
   flex-direction: column;
+  background-color: white;
+  
 }
 body {
   font-family: arial, helvetica, sans-serif;
   font-size: 12px;
-  background-image: url("/Fotos/planodefundo.png");
+  background-image: url("../Fotos/planodefundo.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -89,7 +91,7 @@ nav {
 .imagem-centralizada {
   margin-top: 1rem;
   margin-bottom: 0.5rem;
-  background-color: white;
+  
   text-align: center;
 
 }
@@ -457,6 +459,7 @@ h1 {
   border-top: solid black;
   border-radius: 1.5rem;
   border-width: 0.2rem;
+  background-color: white;
 }
 footer { 
  padding-left: 6rem;

@@ -28,6 +28,15 @@ body{
  
 }
 
+.hotmart-link-container {
+  background-color: white;
+  border-top: solid black;
+  border-bottom: solid black;
+  padding: 1rem;
+  border-radius: 2rem;
+  font-size: 1rem;
+}
+
 
 
 
