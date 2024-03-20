@@ -12,7 +12,7 @@ header {
 body {
   font-family: arial, helvetica, sans-serif;
   font-size: 12px;
-  background-image: url("/Fotos/planodefundo.png");
+  background-image: url("./Fotos/planodefundo.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
