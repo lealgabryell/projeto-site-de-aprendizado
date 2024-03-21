@@ -9,6 +9,7 @@ body{
   justify-content: center;
   text-align: center;
   padding: 2rem;
+  border-radius: 2rem;
 }
 
 .logica-playlist-aulas li a:hover{
@@ -20,12 +21,14 @@ body{
   -webkit-box-shadow: 0 3px 10px 0 #ccc;
   text-shadow: 0px 0px 5px #fff;
   padding: 0.3rem;
- 
+}
+.logica-playlist-aulas li:hover ul,
+.logica-playlist-aulas li.over ul {
+  display: block;
 }
 
 .logica-playlist-aulas {
   background-color: #f7f799;
- 
 }
 
 .hotmart-link-container {
