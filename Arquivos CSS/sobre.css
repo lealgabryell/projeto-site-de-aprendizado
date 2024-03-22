@@ -1,5 +1,6 @@
 .corpo-completo {
   font-family: "Hammersmith one", sans-serif;
+  
 }
 
 .corpo-completo li {
@@ -20,12 +21,13 @@
     font-size: 1rem;
     padding: 1rem;
     background-color: white;
-    border: solid black ;
-    border-width: 0.1rem;
-    border-radius: 2rem;
+    border: solid rgb(124,123,123) ;
+    border-width: 0.2rem;
+    border-radius: 1rem;
     margin-right: auto;
     margin-left: auto;
     width: 90rem;
+    background-color: whitesmoke;
   
   }
 
@@ -72,8 +74,8 @@ textarea{
     padding-left: 10px;
     height: 30px;
     line-height: 30px;
-    border-radius: 15px;
-    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    border: 0.1rem solid #ccc;
     outline: none;
 }
 input#nao{
